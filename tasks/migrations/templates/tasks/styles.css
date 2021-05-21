@@ -1,0 +1,11 @@
+bg {
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+}
+
+#task_list {
+    height: 50%;
+    width: 60%;
+    background-color: rgb(212, 188, 158);
+}
